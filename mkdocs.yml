@@ -1,0 +1,14 @@
+site_name: SASP Fase 1
+site_url: https://dariomggg.github.io/SASP_Fase1_Web/
+nav:
+  - Home: index.md
+  - SASP: sostenibilidad.md
+  - ODS:
+      - Introducción: ods.md
+      - ODS 9: ODS9_Industria_Innovacion_Infraestructura.md
+  - Reflexiones:
+    - Reflexiones ODS: reflexiones.md
+    - Reflexion: reflexion.md
+
+theme:
+  name: cinder
